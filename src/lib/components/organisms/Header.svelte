@@ -8,14 +8,7 @@
 
 <header class:has-background={showBackground}>
 	<nav class="container">
-		<a class="logo" href="/" aria-label="Site logo">
-			<Logo />
-		</a>
-		<div class="links">
-			<a href="/blog">Blog</a>
-			<RssLink />
-			<ThemeToggle />
-		</div>
+		<a class="logo" href="/" aria-label="Site logo"> فیلم بگو </a>
 	</nav>
 </header>
 

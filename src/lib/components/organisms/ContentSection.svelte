@@ -7,27 +7,6 @@
 </script>
 
 <section {id} class="content-section {align}">
-	<div class="title-area">
-		{#if title || description}
-			<div class="text">
-				{#if title}
-					<h2>
-						{title}
-					</h2>
-				{/if}
-				{#if description}
-					<p>
-						{description}
-					</p>
-				{/if}
-			</div>
-		{/if}
-		{#if $$slots['button']}
-			<div class="button">
-				<slot name="button" />
-			</div>
-		{/if}
-	</div>
 	<div class="content-area">
 		<slot />
 	</div>

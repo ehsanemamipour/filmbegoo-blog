@@ -10,12 +10,10 @@
 @import '$lib/scss/_code-highlights.scss';
 @import '$lib/scss/animations.scss';
 
-@import '@fontsource/inter';
-@import '@fontsource/inter/600.css';
-@import '@fontsource/inter/700.css';
-@import '@fontsource/merriweather';
-@import '@fontsource/merriweather/900.css';
-@import '@fontsource/ubuntu-mono';
+@font-face {
+	font-family: "Ekraan";
+	src: url("../fonts/Ekraan.woff");
+}
 
 body {
 	--body-background-color: var(--color--page-background);
@@ -23,7 +21,7 @@ body {
 	color: var(--color--text);
 	fill: var(--color--text);
 	transition: all 0.4s ease;
-	font-family: var(--font--default);
+	font-family: "Ekraan";
 	line-height: 1.3;
 	scroll-behavior: smooth;
 
