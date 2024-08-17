@@ -2,20 +2,20 @@
 // So they can be added as suffixes on different pages
 // Via <svelte:head>
 
-export const siteBaseUrl = 'https://sveltekit-static-blog-template.vercel.app/';
+export const siteBaseUrl = 'https://filmbegoo.com';
 
 export const keywords = [
-	'Svelte',
-	'SvelteKit',
-	'Template',
-	'Blog',
-	'Starter',
-	'Static Site'
+	'فیلم',
+	'پیشنهاد هوشمند',
+	'پیشنهاد فیلم',
+	'فیلم سینمایی',
+	'چی ببینیم؟',
+	'پیشنهاد سریال'
 ];
 
 export const description =
-	"A light, neat, and easy-to-use SvelteKit template for your next website.";
+	'فیلم بگو با کمک هوش مصنوعی به شما فیلم مناسب رو برای تماشا انتخاب میکنه';
 
-export const title = 'SvelteKit Static Blog Template';
+export const title = 'فیلم بگو | پیشنهاد هوشمند فیلم';
 
 export const image = `${siteBaseUrl}/images/site-preview.png`;
