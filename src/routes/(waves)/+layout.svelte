@@ -24,12 +24,12 @@
 	<meta name="twitter:card" content="summary_large_image" />
 </svelte:head>
 
-<Waves />
+<!-- <Waves /> -->
 
-<Header />
+<!-- <Header /> -->
 
 <main>
 	<slot />
 </main>
 
-<Footer />
+<!-- <Footer /> -->
