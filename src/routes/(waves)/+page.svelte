@@ -16,13 +16,23 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1 class="hero-title">Your App Name</h1>
-            <p class="hero-subtitle">An amazing app to enhance your mobile experience. Available on Android and iOS.</p>
-            
-            <!-- CTA Buttons -->
             <div class="cta-buttons">
-                <a href="https://play.google.com/store/apps/details?id=yourapp" class="download-button google-play">Get it on Google Play</a>
-                <a href="https://apps.apple.com/app/yourapp" class="download-button app-store">Download on the App Store</a>
+                <img src="/images/gpt.png" height="70" width="70"  class="circle-image" />
+                <h1 class="hero-title">جی پی تی پلاس</h1>
+                
+             
+            </div>
+
+            <!-- <p class="hero-subtitle">هر کاری داری به هوش مصنوعی بگو</p> -->
+            
+            <p class="hero-subtitle"></p>
+            <div class="cta-buttons">
+                <a href="https://cafebazaar.ir/app/com.gpt.gpt_plus">
+                    <img src="/images/bazar.svg" alt="Get it on Google Play" class="download-image" />
+                </a>
+                <a href="https://sibapp.com/applications/GPTPlus?from=collection">
+                    <img src="/images/sibapp.svg" alt="Download on the App Store" class="download-image" />
+                </a>
             </div>
         </div>
     </section>
@@ -132,7 +142,9 @@
     .blog-posts .section-title {
         margin-bottom: 30px;
     }
-
+    .circle-image {
+          border-radius: 30%;
+        }
     /* General Styles */
     @media (max-width: 768px) {
         .hero-title {
@@ -150,5 +162,6 @@
         .cta-buttons {
             flex-direction: column;
         }
+    
     }
 </style>
