@@ -10,7 +10,7 @@ import RssLink from '$lib/components/atoms/RssLink.svelte';
         <FooterWave />
     </div>
     <div class="content">
-        <div class="copyright">وبسایت فیلم بگو</div>
+        <div class="copyright">وبسایت جی پی تی پلاس</div>
         <div class="socials">
             <Socials />
         </div>

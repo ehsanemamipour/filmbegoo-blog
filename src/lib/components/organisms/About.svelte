@@ -7,10 +7,10 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			وب‌سایت پیشنهاد فیلم هوشمند
+			وبسابت هوش مصنوعی جی پی تی پلاس
 			<SparklingHighlight color="secondary">فیلم‌ بگو</SparklingHighlight>
 		</h2>
-		<p>فیلم بگو یه وب‌سایت هوشمنده که با هوش مصنوعی بهت توی انتخاب فیلم کمک میکنه</p>
+		<p> جی پی تی پلاس دستیار هوش مصنوعی در تمام زمینه ها</p>
 		<div class="socials">
 			<span>Socials:</span>
 			<Socials />

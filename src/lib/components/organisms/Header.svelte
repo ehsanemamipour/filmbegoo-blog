@@ -8,7 +8,7 @@
 
 <header class:has-background={showBackground}>
 	<nav class="container">
-		<a class="logo" href="/" aria-label="Site logo"> فیلم بگو </a>
+		<a class="logo" href="/" aria-label="Site logo"> جی پی تی پلاس </a>
 	</nav>
 </header>
 
