@@ -8,7 +8,7 @@
 		<TelegramIcon />
 	</a>
 	<a
-		href="https://instagram.com/filmbegoo_com"
+		href="https://instagram.com/gptplus"
 		target="_blank"
 		rel="noopener noreferrer"
 		title="Say Hi on Telegram"
