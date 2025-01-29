@@ -8,7 +8,7 @@
 	<div class="info">
 		<h2>
 			وبسابت هوش مصنوعی جی پی تی پلاس
-			<SparklingHighlight color="secondary">فیلم‌ بگو</SparklingHighlight>
+			<SparklingHighlight color="secondary">جی پی تی پلاس</SparklingHighlight>
 		</h2>
 		<p> جی پی تی پلاس دستیار هوش مصنوعی در تمام زمینه ها</p>
 		<div class="socials">
