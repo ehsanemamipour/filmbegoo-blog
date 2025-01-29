@@ -16,6 +16,6 @@ export const keywords = [
 export const description =
 	'جی پی تی پلاس';
 
-export const title = 'جی پی تی پلاس';
+export const title ='۳۳۷۴۶۳۳۸';
 
 export const image = `${siteBaseUrl}/images/gpt.png`;
